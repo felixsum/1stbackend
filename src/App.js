@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Hello after add backend</h1>
+        <h1>Hello after add backend before import Amplify</h1>
       </header>
     </div>
   );
